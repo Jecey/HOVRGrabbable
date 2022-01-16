@@ -20,7 +20,9 @@ Then to create a new snap spot for objects do the following:
 If you want the object to be grabbed to snap to the specific position, enable *Snap Position*. If you want the rotation to snap to the hand, enable *Snap Orientation*.
 
 Example scenario:
-https://user-images.githubusercontent.com/11212335/149667247-5105050e-2847-47dd-8c4e-ed5dd42c6b0c.mp4
+
+
+https://user-images.githubusercontent.com/11212335/149667374-db07b94e-dc68-4131-afba-5cb5b8122e3f.mp4
 
 
 
